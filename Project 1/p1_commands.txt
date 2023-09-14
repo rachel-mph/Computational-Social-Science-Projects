@@ -1,0 +1,10 @@
+cd documents
+cd github
+git clone 
+https://github.com/rachel-mph/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+git pull
+mkdir "Project 1"
+cd "Project 1"
+touch p1_commands.txt
+nano p1_commands.txt
