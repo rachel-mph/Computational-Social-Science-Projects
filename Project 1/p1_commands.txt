@@ -4,7 +4,13 @@ git clone
 https://github.com/rachel-mph/Computational-Social-Science-Projects.git
 cd Computational-Social-Science-Projects
 git pull
+
 mkdir "Project 1"
 cd "Project 1"
 touch p1_commands.txt
 nano p1_commands.txt
+
+git add *
+git status
+git commit -m "adding p1 folder and txt file with commands"
+git push
